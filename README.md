@@ -1,2 +1,0 @@
-# TsPRCss
-Created with CodeSandbox
